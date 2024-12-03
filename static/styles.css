@@ -1,0 +1,154 @@
+body {
+    background-color: rgb(48, 22, 13);
+}
+
+
+.open-text {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 3px;
+    text-align: center;
+    margin: 20px;
+    gap: 10px;
+    justify-content:space-evenly;
+    justify-items: center;
+}
+
+    .Logo {
+        border-style: solid;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-left: 37px;
+        background-color: rgb(77, 0, 0);
+    }
+
+    .intro {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin: 20px;
+        border-style: solid;
+        border-radius: 15px;
+        font-size: larger;
+        margin-left: 70px;
+        background-color: rgb(77, 0, 0)
+        
+    }
+
+.welcome {
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+
+
+.links {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+gap: 3px;
+margin: 15px;
+gap: 20px;
+}
+
+    .home {
+        border-style: solid;
+        border-color: white;
+        border-radius: 10px;
+        border-width: 2px;
+        padding: 10px;
+        flex: 1 0 10px;
+        text-align: center;
+        text-decoration: none;
+        color:white;
+        background-color: rgb(96, 18, 4);
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: large;
+    }
+
+    .contact {
+        border-style: solid;
+        border-color: white;
+        border-radius: 10px;
+        border-width: 2px;
+        padding: 10px;
+        flex: 1 0 10px;
+        text-align: center;
+        text-decoration: none;
+        color:white;
+        background-color: rgb(96, 18, 4);
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: large;
+    }
+
+    .FAQ {
+        border-style: solid;
+        border-color: white;
+        border-radius: 10px;
+        border-width: 2px;
+        padding: 10px;
+        flex: 1 0 10px;
+        text-align: center;
+        text-decoration: none;
+        color:white;
+        background-color: rgb(96, 18, 4);
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: large;
+    }
+
+    .tournaments {
+        border-style: solid;
+        border-color: white;
+        border-radius: 10px;
+        border-width: 2px;
+        padding: 10px;
+        flex: 1 0 10px;
+        text-align: center;
+        text-decoration: none;
+        color:white;
+        background-color: rgb(96, 18, 4);
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: large;
+    }
+
+    .login {
+        border-style: solid;
+        border-color: white;
+        border-radius: 10px;
+        border-width: 2px;
+        padding: 10px;
+        flex: 1 0 10px;
+        text-align: center;
+        text-decoration: none;
+        color:white;
+        background-color: rgb(96, 18, 4);
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: large;
+    }
+
+
+.container1 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    gap: 140px;
+}
+
+.video {
+    margin-right: 170px;
+}
+
+.disclaimer {
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 20px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: rgb(77, 0, 0);
+    padding: 15px;
+}
+
+
+
+    
+
